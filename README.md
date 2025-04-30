@@ -1,6 +1,6 @@
 # HawkMoth
 * **Trailer:**  https://www.youtube.com/watch?v=Q2LkU_klWF4
-* **Description:** Hawk Moth is an on-rails action flying game in which you must fight and make meaningful choices that will affect the characters you encounter.
+* **Description:** Hawk Moth is an on-rails action flying game in which you must fight and make meaningful choices that will affect the characters you encounter
 * *Made in Unity and with C#*  
   
 # Screenshots
